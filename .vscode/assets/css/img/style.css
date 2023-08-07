@@ -1,0 +1,423 @@
+body{
+    margin: 0;
+}
+    .navbar{
+    height: 80px;
+    display: flex;
+    }
+    .leftside{
+        width: 40%;
+        padding-left: 100px;
+        
+    }
+    .Rightside{
+        width: 60%;
+        text-align: right;
+        margin: auto;
+    }
+    .leftside .img{
+       /* background-image: url(./assets/css/img/Codoid-Logo.svg);
+       background-repeat: no-repeat; */
+       width:100px ;
+       height: 50px;
+    }
+    .Rightside span{
+        font-size: 20px;
+        font-weight: 600;
+        margin-right:50px;
+        margin-top: 200px;
+    }
+
+     .Banner{
+        background-image:url(./2157889318001_4271424184001_goldberg-return-wwe-vince-mcmahonjpg.jpg);
+        background-size: cover;
+        height:600px;
+        width: 100%;
+        background-repeat: no-repeat;
+     }
+.Banner .leftside{
+    width:40%;
+    color: white;
+    margin-left: 150px;
+}
+.Banner .leftside h2{
+    font-size: 40px;
+    
+}
+.Banner .leftside p{
+    margin: 0%;
+    padding: 0%;
+    font-size: 20px;
+}
+.Banner{
+    display: flex;
+    align-items: center;
+}
+.button{
+    padding:20px;
+    font-weight:700 ;
+    font-size: 16px;
+    border-radius: 6px;
+    color:white ;
+    border: 0px;
+    background-color: blue;
+    
+
+}
+ 
+   
+  .text {
+      text-align: center;
+  }
+
+  .text .span1 {
+      color: blue;
+      font-size: 25px;
+      font-weight: bold;
+  }
+
+  .text .span2 {
+      font-size: 20px;
+      font-weight: bold;
+  }
+
+  .content {
+      display: flex;
+      height: 700px;
+  }
+
+
+  .content .content-right {
+      background-image: url(./desktop-wallpaper-the-gangster-the-cop-the-devil-thumbnail.jpg);
+      width: 48%;
+      background-repeat: no-repeat;
+
+  }
+
+  .content-left {
+      margin-right: 20px;
+      width: 45%;
+      margin-left: 80px;
+      text-align: right;
+      line-height: 30px;
+  }
+
+  .content-left .span1 {
+      color: blue;
+      font-size: 20px;
+      font-weight: bold;
+
+  }
+
+  .content-left .span2 {
+
+      font-size: 20px;
+      font-weight: bold;
+
+  }
+
+  .content-left .para1 {
+      font: size 25px;
+      font-weight: 500;
+      font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .content-left .para2 {
+      font: size 25px;
+      font-weight: 500;
+      font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .content-left .para3 {
+      font: size 25px;
+      font-weight: 500;
+      font-family: Arial, Helvetica, sans-serif;
+  }
+  .page {
+      height:450px;
+      display: flex;
+
+
+
+  }
+
+  .card1 {
+    
+      background-image:url(./screenshot_2_1654667625.jpeg);
+      background-repeat: no-repeat;
+      width: 23%;
+      background-size:auto;
+      background-color:white;
+      border-radius: 4%;
+      margin-left: auto;
+      border-style: groove;
+
+  }
+
+  .card2 {
+      background-image: url(./FQWZTkSVIAMpF0D.jpeg);
+      background-repeat: no-repeat;
+      width: 23%;
+      background-color:white;
+      border-radius: 4%;
+      margin-left: auto;
+    border-style: groove;
+  }
+
+  .card3 {
+      background-image: url(./galaxy-guardians-of-the-galaxy-vol-2-ship-milano-spacecraft-wallpaper-thumb.jpg);
+      background-repeat: no-repeat;
+      width: 23%;
+      background-color:white;
+      border-radius: 4%;
+      margin-left: auto;
+    border-style: groove;
+  }
+
+  .card4 {
+      background-image: url(./guardians-of-the-galaxy-vol-2-wallpaper-preview.jpg);
+      background-repeat: no-repeat;
+      width: 23%;
+      background-color:white;
+      border-radius: 4%;
+      margin-left: auto;
+    border-style: groove;
+  }
+  .polar{
+    font-style:normal;
+    font-size:40px;
+    font-weight: bolder;
+    color: white;
+     margin-left:180px;
+  }
+  .stein{
+    font-style:italic;
+        font-size: 40px;
+        font-weight: bolder;
+        color: white;
+        margin-left: 140px;
+  }
+  .red{
+    font-style:oblique;
+        font-size: 40px;
+        font-weight: bolder;
+        color: white;
+        margin-left: 160px;
+        margin-top:5px;
+  }
+  .ceng{
+    font-style:inherit;
+        font-size: 40px;
+        font-weight: bolder;
+        color: white;
+        margin-left: 140px;
+        margin-top: 5px;
+  }
+  .online{
+    color:black;
+    text-align: center;
+        margin-top:270px;
+        font-size:20px;
+        font-weight: bold;
+  }
+  .test{
+    color: black;
+        text-align: center;
+        margin-top: 270px;
+        font-size: 20px;
+        font-weight: bold;
+    
+  }
+  .moblie{
+    color: black;
+        text-align: center;
+        margin-top: 270px;
+        font-size: 20px;
+        font-weight: bold;
+    
+
+  }
+ .deliver{
+    color: black;
+        text-align: center;
+        margin-top: 270px;
+        font-size: 20px;
+        font-weight: bold;
+    
+ }
+ .man{
+    color: blue;
+    text-align: center;
+    font-size: 23px;
+    margin-top:40px;
+   
+ }
+ .log{
+    color: blue;
+        text-align: center;
+        font-size: 23px;
+        margin-top: 40px;
+        
+
+ }
+ .tele{
+    color: blue;
+        text-align: center;
+        font-size: 23px;
+        margin-top: 40px;
+
+ }
+ .learn{
+    color: blue;
+        text-align: center;
+        font-size: 23px;
+        margin-top: 40px;
+
+ }
+ .page2{
+    height: 450px;
+    display: flex;
+ }
+ .card5{
+    background-image: url(./images.jpeg);
+        background-repeat: no-repeat;
+        width: 23%;
+        background-size: auto;
+        background-color: white;
+        border-radius: 4%;
+        margin-left: auto;
+        border-style: groove;
+    
+ }
+ .card6{
+    background-image: url(./images\ \(1\).jpeg);
+        background-repeat: no-repeat;
+        width: 23%;
+        background-color: white;
+        border-radius: 4%;
+        margin-left: auto;
+        border-style: groove;
+
+ }
+ .card7{
+    background-image: url(./movie-guardians-of-the-galaxy-vol-2-baby-groot-groot-wallpaper-preview.jpg);
+        background-repeat: no-repeat;
+        width: 23%;
+        background-color: white;
+        border-radius: 4%;
+        margin-left: auto;
+        border-style: groove;
+
+ }
+ .card8{
+    background-image: url(./movie-guardians-of-the-galaxy-vol-2-baby-groot-groot-wallpaper-preview\ \(1\).jpg);
+        background-repeat: no-repeat;
+        width: 23%;
+        background-color: white;
+        border-radius: 4%;
+        margin-left: auto;
+        border-style: groove;
+
+ }
+ .mobily {
+     font-style: normal;
+     font-size: 30px;
+     font-weight: bolder;
+     color: white;
+     margin-left: 190px;
+ }
+
+ .cen {
+     font-style: italic;
+     font-size: 30px;
+     font-weight: bolder;
+     color: white;
+     margin-left: 140px;
+ }
+
+ .plan {
+     font-style: oblique;
+     font-size: 30px;
+     font-weight: bolder;
+     color: white;
+     margin-left: 160px;
+     margin-top: 5px;
+ }
+
+ .smart {
+     font-style: inherit;
+     font-size: 30px;
+     font-weight: bolder;
+     color: white;
+     margin-left: 120px;
+     margin-top: 5px;
+ }
+
+ .auto {
+     color: black;
+     text-align: center;
+     margin-top: 280px;
+     font-size: 20px;
+     font-weight: bold;
+ }
+
+ .testing {
+     color: black;
+     text-align: center;
+     margin-top: 280px;
+     font-size: 20px;
+     font-weight: bold;
+
+ }
+
+ .book {
+     color: black;
+     text-align: center;
+     margin-top: 280px;
+     font-size: 20px;
+     font-weight: bold;
+
+
+ }
+
+ .daily {
+     color: black;
+     text-align: center;
+     margin-top: 280px;
+     font-size: 20px;
+     font-weight: bold;
+
+ }
+
+ .man{
+     color: blue;
+     text-align: center;
+     font-size: 23px;
+     margin-top: 50px;
+
+ }
+
+ .data{
+     color: blue;
+     text-align: center;
+     font-size: 23px;
+     margin-top: 50px;
+
+
+ }
+
+ .hosp {
+     color: blue;
+     text-align: center;
+     font-size: 23px;
+     margin-top: 50px;
+
+ }
+
+ .tech {
+     color: blue;
+     text-align: center;
+     font-size: 23px;
+     margin-top: 50px;
+
+ }
